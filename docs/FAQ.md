@@ -307,7 +307,7 @@ Yes, though you need to consider cold start times and timeout limits. For server
 
 ### How can I contribute to Synalinks?
 
-Check out our [Contributing Guide](contributing.md) for details on how to contribute, including:
+Check out our [Contributing Guide](../CONTRIBUTING.md) for details on how to contribute, including:
 - Reporting bugs
 - Suggesting features
 - Submitting pull requests
