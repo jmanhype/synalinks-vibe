@@ -1,0 +1,28 @@
+# Synalinks Vibe Template Requirements
+# This is a minimal starter template - add specific dependencies as needed
+
+# Core dependency (example - uncomment when ready to use)
+# synalinks>=0.1.0
+
+# Web framework for API development
+# fastapi>=0.104.0
+# uvicorn[standard]>=0.24.0
+
+# Data validation
+# pydantic>=2.0.0
+
+# Environment management
+# python-dotenv>=1.0.0
+
+# Development tools
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# ruff>=0.1.0
+
+# AI/ML dependencies (add as needed)
+# openai>=1.0.0
+# anthropic>=0.7.0
+# langchain>=0.1.0
+
+# Add your project-specific dependencies here
